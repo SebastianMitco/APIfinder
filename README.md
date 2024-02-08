@@ -16,8 +16,10 @@ To run this project locally, follow these steps:
 2. Obtain API credentials from [GitHub Developer Settings](https://github.com/settings/applications/new).
 3. Create a `.env` file in the root directory of the project and add your GitHub API credentials.
 
+```
 REACT_APP_GITHUB_CLIENT_ID=your_client_id
 REACT_APP_GITHUB_CLIENT_SECRET=your_client_secret
+```
 
 4. Install dependencies by running `npm install`.
 5. Start the development server by running `npm start`.
