@@ -1,0 +1,4 @@
+Exercising React JS6 class based components
+
+part 5 made error beim rendern
+3. stafel
